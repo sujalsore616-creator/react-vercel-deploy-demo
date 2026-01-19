@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-vercel-deploy-demo/static/css/main.c88264ce.css",
+    "main.js": "/react-vercel-deploy-demo/static/js/main.95895213.js",
+    "static/js/453.b82a05a0.chunk.js": "/react-vercel-deploy-demo/static/js/453.b82a05a0.chunk.js",
+    "static/media/logo.svg": "/react-vercel-deploy-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-vercel-deploy-demo/index.html",
+    "main.c88264ce.css.map": "/react-vercel-deploy-demo/static/css/main.c88264ce.css.map",
+    "main.95895213.js.map": "/react-vercel-deploy-demo/static/js/main.95895213.js.map",
+    "453.b82a05a0.chunk.js.map": "/react-vercel-deploy-demo/static/js/453.b82a05a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88264ce.css",
+    "static/js/main.95895213.js"
+  ]
+}
